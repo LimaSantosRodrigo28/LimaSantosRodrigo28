@@ -4,8 +4,6 @@
 ✔ Desenvolvedor Front End Jr.
 
 
-💡 Atualmente trabalhando em projetos pessoais, e como freelance.
-
 🆙 https://rlsoftech.netlify.app/
 
 
